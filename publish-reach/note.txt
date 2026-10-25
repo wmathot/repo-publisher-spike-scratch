@@ -1,1 +1,2 @@
 publish-reach T-live, call 1: a synthetic public file.
+publish-reach T-live, call 2: a second commit, a fast-forward.
